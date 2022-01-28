@@ -1,3 +1,7 @@
+# Monster Roloodex ZTM 
+
+This is a simple project from ZTM Academy React Course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
